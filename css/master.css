@@ -32,6 +32,7 @@ h1 {
 .projects {
   float: right;
   width: 405px;
+  height: 537px;
   padding: 10px;
   margin-right: 5px;
   background-color: lightblue;
@@ -42,7 +43,6 @@ h1 {
   float: right;
   border-style: solid;
   padding: 1px;
-  margin-top: 5px;
   margin-right: 5px;
 }
 
@@ -56,6 +56,9 @@ body {
   background-repeat: no-repeat;
 }
 
-.right {
-  clear: right;
+.code {
+  font-weight: bold;
+  font-variant: small-caps;
+  color: black;
+  font-size: 12px;
 }
