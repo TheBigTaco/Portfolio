@@ -50,7 +50,7 @@ img {
 
 /*Index background only*/
 body.index {
-  background-size: cover;
+  background-size: contain;
   background-repeat:no-repeat;
 }
 
