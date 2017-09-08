@@ -1,3 +1,5 @@
+
+/*for About Me section in index*/
 .info {
   padding: 10px;
   position: absolute;
@@ -6,10 +8,19 @@
   border: Solid #858996;
 }
 
+body.projects {
+  background-color: black;
+  color: green;
+}
+
+a.projects {
+  color: #10511c;
+}
+
 .Profile {
   text-align:center;
 }
-
+/* Only affects index at the moment*/
 .epicodus {
   float: right;
 }
@@ -32,27 +43,22 @@ h1 {
   text-align: center;
 }
 
-.bozeman {
-  float: right;
-  border-style: solid;
-  padding: 1px;
-  margin-right: 5px;
-}
-
 img {
   padding: 1px;
   border: 1px solid black;
 }
 
+/*Index background only*/
 body.index {
   background-size: cover;
   background-repeat:no-repeat;
 }
 
+/*Span for coding languages*/
 .code {
   font-weight: bold;
   font-variant: small-caps;
-  color: black;
+  color: green;
   font-size: 25px;
 }
 
