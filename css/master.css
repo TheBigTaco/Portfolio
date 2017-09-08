@@ -27,6 +27,7 @@ a.projects {
 
 h1 {
   text-align: center;
+  font-family:monospace;
   background-color: #8bb6f9;
   padding: 5px;
   border: 5px solid #26397c;
