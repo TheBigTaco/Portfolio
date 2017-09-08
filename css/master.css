@@ -16,7 +16,7 @@
 }
 
 .Profile {
-  margin-left: 15px;
+  margin-left: 200px;
 }
 
 h1 {
@@ -30,12 +30,9 @@ h1 {
 }
 
 .projects {
-  float: right;
-  width: 405px;
-  height: 537px;
   padding: 10px;
   margin-right: 5px;
-  background-color: lightblue;
+  background-color: lightblue 0.5;
   border-style: Solid;
 }
 
@@ -52,7 +49,7 @@ img {
 }
 
 body {
-  background-size: cover;
+  background-size:cover;
   background-repeat: no-repeat;
 }
 
@@ -61,4 +58,8 @@ body {
   font-variant: small-caps;
   color: black;
   font-size: 12px;
+}
+
+a {
+  color: darkblue;
 }
