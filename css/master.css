@@ -1,22 +1,12 @@
-.about {
-  width: 33%;
-  padding: 10px;
-  margin-left: 15px;
-  margin-top: 5px;
-  background-color: #c8f799;
-  border: Solid #a6d378;
-}
-
 .info {
   padding: 10px;
-  margin-left: 15px;
   margin-top: 5px;
   background-color: #d7dbe8;
   border: Solid #858996;
 }
 
 .Profile {
-  margin-left: 200px;
+  margin-left: 330px;
 }
 
 h1 {
@@ -30,10 +20,7 @@ h1 {
 }
 
 .projects {
-  padding: 10px;
-  margin-right: 5px;
-  background-color: lightblue 0.5;
-  border-style: Solid;
+  text-align: center;
 }
 
 .bozeman {
@@ -48,8 +35,8 @@ img {
   border: 1px solid black;
 }
 
-body {
-  background-size:cover;
+body.index {
+  background-size:contain;
   background-repeat: no-repeat;
 }
 
