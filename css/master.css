@@ -1,0 +1,29 @@
+.about {
+  width: 33%;
+  padding: 10px;
+  margin-left: 15px;
+  margin-top: 5px;
+  background-color: lightgreen;
+}
+
+.Profile {
+  margin-left: 200px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.projects {
+  padding: 10px;
+  margin-left: 15px;
+  margin-top: 15px;
+  background-color: lightblue;
+}
+
+.myBackground {
+  padding: 10px;
+  margin-right: 15px;
+  margin-top: 15px;
+  background-color: purple;
+}
