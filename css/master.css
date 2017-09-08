@@ -64,8 +64,23 @@ body.index {
 
 a {
   color: darkblue;
+  text-decoration: underline;
 }
 
 .col-md-4 {
   font-size: 30px;
+}
+
+.col-md-5 {
+  font-size: 30px;
+}
+
+.col-md-7 {
+  font-size: 30px;
+}
+
+.col-md-8 {
+  font-size: 30px;
+  text-align: right;
+  list-style-position: inside;
 }
